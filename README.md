@@ -4,6 +4,8 @@
 
 ---
 
+<!--
+
 ## About Me
 I'm a passionate developer who loves solving real-world problems with clean, maintainable code. I focus on building scalable systems, delightful user experiences, and contributing to open source. I enjoy learning new technologies and mentoring others.
 
@@ -65,7 +67,6 @@ I love connecting with other developers. You can reach me through:
 ---
 
 ## GitHub Stats
-<!-- You can replace `Github-Suriya` with your username to enable these cards -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Github-Suriya&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Github-Suriya&layout=compact&theme=radical)
 
@@ -79,3 +80,5 @@ I love connecting with other developers. You can reach me through:
 ---
 
 Thanks for stopping by — let's build something great! 🚀
+
+-->
