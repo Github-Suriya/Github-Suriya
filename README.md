@@ -1,4 +1,4 @@
-# Hi, I'm Github-Suriya 👋
+# Hi, I'm Suriya 👋
 
 > Building useful software, learning daily, and sharing what I know.
 
