@@ -4,28 +4,6 @@
 
 ---
 
-## Tech & Tools
-Here are the technologies I use most:
-
-- Languages: JavaScript / TypeScript, PHP, Java
-- Frameworks: Laravel, React, Next.js, Node.js, Express
-- Databases & Storage: MySQL, MongoDB, Firebase
-- Other: GraphQL, REST, WebSockets, GitHub Actions
-
----
-
-## Get in Touch
-I love connecting with other developers. You can reach me through:
-- Email: suriyatkms1218.in@gmail.com
-- Facebook: [@tkms.surya.1218](https://www.facebook.com/tkms.surya.1218)
-- Instagram: [@suriyammu.exe](https://www.instagram.com/suriyammu.exe)
-- Twitter: [@suriyammu143](https://x.com/suriyammu143)
-- LinkedIn: [Suriya M](https://www.linkedin.com/in/suriya-pauline)
-
----
-
-Thanks for stopping by — let's build something great! 🚀
-
 <!--
 
 ## About Me
@@ -38,6 +16,46 @@ I'm a passionate developer who loves solving real-world problems with clean, mai
 - ⚡ Fun fact: I love optimizing things — code, workflows, and coffee brewing.
 
 ---
+
+
+
+## Tech & Tools
+Here are the technologies I use most:
+
+- Languages: JavaScript / TypeScript, PHP, Java
+- Frameworks: Laravel, React, Next.js, Node.js, Express
+- Databases & Storage: MySQL, MongoDB, Firebase
+- Other: GraphQL, REST, WebSockets, GitHub Actions
+
+---
+
+## Get in Touch 🤝
+
+<p align="left">
+  <a href="mailto:suriyatkms1218.in@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.facebook.com/tkms.surya.1218" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/suriyammu.exe" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/suriyammu143" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/suriya-pauline" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+Thanks for stopping by — let's build something great! 🚀
 
 ## What I Build
 A few types of projects I enjoy building:
