@@ -4,6 +4,28 @@
 
 ---
 
+## Tech & Tools
+Here are the technologies I use most:
+
+- Languages: JavaScript / TypeScript, PHP, Java
+- Frameworks: Laravel, React, Next.js, Node.js, Express
+- Databases & Storage: MySQL, MongoDB, Firebase
+- Other: GraphQL, REST, WebSockets, GitHub Actions
+
+---
+
+## Get in Touch
+I love connecting with other developers. You can reach me through:
+- Email: suriyatkms1218.in@gmail.com
+- Facebook: [@tkms.surya.1218](https://www.facebook.com/tkms.surya.1218)
+- Instagram: [@suriyammu.exe](https://www.instagram.com/suriyammu.exe)
+- Twitter: [@suriyammu143](https://x.com/suriyammu143)
+- LinkedIn: [Suriya M](https://www.linkedin.com/in/suriya-pauline)
+
+---
+
+Thanks for stopping by — let's build something great! 🚀
+
 <!--
 
 ## About Me
@@ -14,18 +36,6 @@ I'm a passionate developer who loves solving real-world problems with clean, mai
 - 👯 I’m looking to collaborate on: Developer tools, API design, and developer experience (DX) projects.
 - 💬 Ask me about: Web architecture, TypeScript, CI/CD, and production debugging.
 - ⚡ Fun fact: I love optimizing things — code, workflows, and coffee brewing.
-
----
-
-## Tech & Tools
-Here are the technologies I use most:
-
-- Languages: JavaScript / TypeScript, Python, Go
-- Frameworks: React, Next.js, Node.js, Express
-- Databases & Storage: PostgreSQL, Redis, MongoDB
-- Infrastructure: Docker, Kubernetes, Terraform, AWS
-- Testing & CI: Jest, Playwright, GitHub Actions
-- Other: GraphQL, REST, WebSockets, gRPC
 
 ---
 
