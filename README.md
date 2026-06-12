@@ -4,109 +4,142 @@
 
 ---
 
-<!--
+## 🧑‍💻 About Me
 
-## About Me
-I'm a passionate developer who loves solving real-world problems with clean, maintainable code. I focus on building scalable systems, delightful user experiences, and contributing to open source. I enjoy learning new technologies and mentoring others.
+I'm a **Full Stack Developer** with a backend-first mindset, based in **Perambur, Chennai**. I love crafting developer tools, open-source packages, and practical utilities that make everyday coding easier.
 
-- 🔭 I’m currently working on: Open-source projects and side apps that solve developer pain points.
-- 🌱 I’m currently learning: Advanced system design, scalable infrastructure, and ML fundamentals.
-- 👯 I’m looking to collaborate on: Developer tools, API design, and developer experience (DX) projects.
-- 💬 Ask me about: Web architecture, TypeScript, CI/CD, and production debugging.
-- ⚡ Fun fact: I love optimizing things — code, workflows, and coffee brewing.
+- 💼 Currently at **Sri Hema Infotech**
+- 🌱 Always learning, always shipping
+- 😇 **Available for Hire**
 
 ---
 
+## 🚀 Featured Projects
 
+### 🍞 [vanilla-toast-js](https://github.com/Github-Suriya/vanilla-toast-js)
+> Lightweight toast notification library for Vanilla JavaScript
 
-## Tech & Tools
-Here are the technologies I use most:
+A zero-dependency, framework-agnostic toast notification library with a full-featured API. Ships with TypeScript types, CDN-ready bundles, smooth stacked animations, promise handling, swipe dismissal, and accessible controls.
 
-- Languages: JavaScript / TypeScript, PHP, Java
-- Frameworks: Laravel, React, Next.js, Node.js, Express
-- Databases & Storage: MySQL, MongoDB, Firebase
-- Other: GraphQL, REST, WebSockets, GitHub Actions
+**Highlights:**
+- 6 toast types: `default`, `success`, `error`, `warning`, `info`, `loading`
+- Promise toasts, updatable toasts, and `dismissAll()`
+- 4 animations (`slide`, `fade`, `scale`, `bounce`) with `prefers-reduced-motion` support
+- 6 positioning options with independent stacks per position
+- Global config via `toast.configure()` with themes (`light`, `dark`, `system`)
+- Available on **npm** and **CDN** (jsDelivr / UNPKG)
 
----
-
-## Get in Touch 🤝
-
-<p align="left">
-  <a href="mailto:suriyatkms1218.in@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://www.facebook.com/tkms.surya.1218" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-
-  <a href="https://www.instagram.com/suriyammu.exe" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-  <a href="https://x.com/suriyammu143" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/suriya-pauline" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+**Tech:** TypeScript · CSS · Vite  
+**Install:** `npm install vanilla-toast-js`  
+🔗 [vanilla-toast-js.devsuriya.in](https://vanilla-toast-js.devsuriya.in)
 
 ---
 
-Thanks for stopping by — let's build something great! 🚀
+### 🔌 [api-preview-vscode-ext](https://github.com/Github-Suriya/api-preview-vscode-ext)
+> Integrated REST API client for Visual Studio Code
 
-## What I Build
-A few types of projects I enjoy building:
+A lightweight VS Code extension that lets you test HTTP requests, inspect JSON responses, and manage request history — without leaving your editor.
 
-- Developer tools and CLI utilities
-- Real-time web apps and APIs
-- Scalable backend services
-- Small ML-powered features and automation scripts
+**Highlights:**
+- Send `GET`, `POST`, `PUT`, `DELETE`, and `PATCH` requests from a webview panel
+- Interactive collapsible JSON tree with color-coded output
+- Workspace-scoped request history with one-click replay
+- Dual-tab editor for Body and Headers with JSON syntax highlighting
+- Real-time tracking of response status, time, and size
+- Open via Command Palette: `API Preview: Open New Request`
 
----
-
-## Featured Projects
-(Replace the placeholders below with your actual projects and links.)
-
-- [Project One](https://github.com/Github-Suriya/project-one) — A short 1–2 line description of what it does and why it matters.
-- [Project Two](https://github.com/Github-Suriya/project-two) — A short 1–2 line description highlighting tech used and impact.
-- [Project Three](https://github.com/Github-Suriya/project-three) — What it solves, who it helps, or notable achievements.
+**Tech:** TypeScript · VS Code Extension API  
 
 ---
 
-## Contributions & Highlights
-- Contributor to several open-source libraries and projects.
-- Created reusable components and libraries used in production.
-- Speaker at community meetups and author of technical blog posts.
+### 📡 [go-offline](https://github.com/Github-Suriya/go-offline)
+> The easiest way to make your website work offline
+
+A production-ready npm package for adding offline support to websites and frontend apps — no hand-rolled service workers needed. Includes a runtime API, React provider and hooks, and an optional CLI.
+
+**Highlights:**
+- Single-import setup: `import { setupOffline } from "go-offline"`
+- First-class React provider (`GoOfflineProvider`) and hooks (`useOfflineStatus`, `usePWAInstall`, `useGoOffline`)
+- Configurable caching strategies: `cache-first`, `network-first`, `stale-while-revalidate`
+- PWA support with install prompt plumbing
+- CLI: `npx go-offline init` generates `offline.html`, `sw.js`, and `manifest.webmanifest`
+- Framework-friendly: works with React, Vite, Vanilla JS, PHP, Laravel, and static sites
+
+**Tech:** TypeScript · React · Service Workers  
+**Install:** `npm install go-offline`
 
 ---
 
-## Get in Touch
-I love connecting with other developers. You can reach me through:
-- Email: hello@yourdomain.com
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourprofile)
-- Personal site / portfolio: https://yourportfolio.com
+### 🎠 [imagium](https://github.com/Github-Suriya/imagium)
+> A lightweight, customizable carousel/slider for web applications
 
-(Replace the placeholders above with your actual contact details.)
+A modern, zero-dependency carousel library built with TypeScript — under 5KB gzipped.
 
----
+**Highlights:**
+- Touch-friendly & responsive with drag/swipe support
+- Keyboard accessible
+- Auto-play with configurable delay
+- Navigation dots and arrows
+- Infinite loop mode
+- Full TypeScript support with clean API (`next()`, `prev()`, `goToSlide(index)`, `destroy()`)
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Github-Suriya&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Github-Suriya&layout=compact&theme=radical)
-
----
-
-## How to Work with Me
-- I enjoy clear goals, small iterative steps, and open communication.
-- I prefer async collaboration (issues, PRs, and short RFCs).
-- If you want to collaborate, open an issue or DM me on LinkedIn/Twitter.
+**Tech:** TypeScript · CSS · Vite  
+**Install:** `npm install imagium`
 
 ---
 
-Thanks for stopping by — let's build something great! 🚀
+### 🔗 [securelink](https://github.com/Github-Suriya/securelink)
+> Temporary, self-expiring links for PHP
 
--->
+A lightweight, framework-agnostic PHP package for generating secure temporary links that auto-expire by time or number of clicks.
+
+**Highlights:**
+- Time-limited links (expire after N minutes)
+- Click-limited links (expire after N accesses)
+- Secure token generation using PHP's `random_bytes()`
+- File-based storage, adaptable to DB backends
+- Easy Composer integration
+- No framework dependencies
+
+**Tech:** PHP  
+**Install:** `composer require wad/securelink:dev-main`
+
+---
+
+### 📱 [nexus-sms-api-admin-v1](https://github.com/Github-Suriya/nexus-sms-api-admin-v1)
+> Admin dashboard for the Nexus SMS API
+
+A full-stack admin panel for managing and monitoring the Nexus SMS API, powered by a Node.js/TypeScript backend and a Vite frontend. Integrates with the Gemini AI API for smart features.
+
+**Highlights:**
+- SQLite database for persistent storage
+- Express/TypeScript server backend
+- Vite-powered frontend with React
+- Gemini AI API integration
+- Environment-configurable with `.env` support
+
+**Tech:** TypeScript · Node.js · Vite · SQLite · Gemini API
+
+---
+
+## 🛠️ Tech Stack
+
+| Area | Technologies |
+|------|-------------|
+| **Languages** | TypeScript, JavaScript, PHP |
+| **Frontend** | React, Vite, HTML/CSS |
+| **Backend** | Node.js, Express, PHP |
+| **Databases** | SQLite |
+| **Tools** | VS Code, Git, npm, Composer |
+
+---
+
+## 📫 Connect with Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-tkms.surya.1218-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/tkms.surya.1218/)
+[![Instagram](https://img.shields.io/badge/Instagram-suriyammu.exe-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/suriyammu.exe)
+[![X](https://img.shields.io/badge/X-suriyammu143-000000?logo=x&logoColor=white)](https://x.com/suriyammu143)
+
+---
+
+*Full Stack Developer | Backend Enthusiast | Perambur, Chennai*
